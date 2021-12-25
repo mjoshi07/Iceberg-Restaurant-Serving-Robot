@@ -1,6 +1,9 @@
 # Iceberg-Restaurant-Serving-Robot
 Mobile manipulator which can autonomously navigate in a restaurant environment while serving food to the customers
 
+# Robot picking up an object and navigating to the table 
+![image](https://github.com/mjoshi07/Iceberg-Restaurant-Serving-Robot/blob/main/data/iceberg_small.gif)
+
 
 ## Dependencies
 * MoveIt
