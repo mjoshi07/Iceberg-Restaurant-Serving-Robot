@@ -1,0 +1,3 @@
+[submodule "src/gazebo_ros_link_attacher"]
+	path = src/gazebo_ros_link_attacher
+	url = https://github.com/mjoshi07/gazebo_ros_link_attacher.git
